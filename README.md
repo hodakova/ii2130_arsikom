@@ -1,2 +1,2 @@
-# ii2130_arsikom
-II2130 Sistem dan Arsitektur Komputer, STI'22
+# II2130 Computer Arxitecture and Systems, IST'22
+- practicum
